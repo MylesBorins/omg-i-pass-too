@@ -2,6 +2,7 @@
   "name": "omg-i-pass-too",
   "version": "1.0.0",
   "description": "Test suite always passes",
+  "repository": "https://github.com/TheAlphaNerd/omg-i-pass-too",
   "main": "index.js",
   "scripts": {
     "test": "tap test/test-*.js"
