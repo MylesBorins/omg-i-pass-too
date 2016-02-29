@@ -1,19 +1,16 @@
 {
   "name": "omg-i-pass-too",
-  "version": "1.0.1",
-  "description": "Test suite always passes",
+  "version": "2.0.0",
   "repository": "https://github.com/TheAlphaNerd/omg-i-pass-too",
+  "description": "Test suite always passes",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/test-*.js"
+    "test": "exit 0"
   },
   "keywords": [
     "always",
     "passes"
   ],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "tap": "^2.1.1"
-  }
+  "license": "MIT"
 }
