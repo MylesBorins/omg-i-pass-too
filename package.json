@@ -1,6 +1,6 @@
 {
   "name": "omg-i-pass-too",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Test suite always passes",
   "main": "index.js",
   "scripts": {
