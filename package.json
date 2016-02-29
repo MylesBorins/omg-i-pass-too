@@ -1,6 +1,6 @@
 {
   "name": "omg-i-pass-too",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test suite always passes",
   "repository": "https://github.com/TheAlphaNerd/omg-i-pass-too",
   "main": "index.js",
